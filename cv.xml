@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://europass.cedefop.europa.eu/xml/cv_it_IT.xsl" type="text/xsl"?>
+<europass:learnerinfo xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="it_IT">
+	<docinfo>
+		<issuedate>2012-09-20T20:04:19+02:00</issuedate>
+		<xsdversion>V2.0</xsdversion>
+		<comment>Automatically generated Europass CV</comment>
+	</docinfo>
+	<prefs>
+		<field name="step1.lastName" before="step1.firstName"></field>
+		<field name="step1.addressInfo" keep="true"></field>
+		<field name="step1.telephone" keep="false"></field>
+		<field name="step1.mobile" keep="true"></field>
+		<field name="step1.fax" keep="false"></field>
+		<field name="step1.email" keep="true"></field>
+		<field name="step1.nationality" keep="true"></field>
+		<field name="step1.birthDate" keep="true" format="/text/long"></field>
+		<field name="step1.gender" keep="true"></field>
+		<field name="step1.photo" keep="false"></field>
+		<field name="step1.application.label" keep="true"></field>
+		<field format="/text/short" name="step3List[4].period"></field>
+		<field format="/text/short" name="step3List[0].period"></field>
+		<field format="/text/long" name="step3List[3].period"></field>
+		<field format="" name="step3List[1].period"></field>
+		<field name="step3List" keep="true" before="step4List"></field>
+		<field keep="true" name="step3List[4].company.sector.label"></field>
+		<field keep="true" name="step3List[4].company.addressInfo"></field>
+		<field keep="true" name="step3List[4].company.name"></field>
+		<field keep="true" name="step3List[4].activities"></field>
+		<field keep="true" name="step3List[4].position.label"></field>
+		<field keep="true" name="step3List[0].company.sector.label"></field>
+		<field keep="true" name="step3List[0].company.addressInfo"></field>
+		<field keep="true" name="step3List[0].company.name"></field>
+		<field keep="true" name="step3List[0].activities"></field>
+		<field keep="true" name="step3List[0].position.label"></field>
+		<field keep="true" name="step3List[3].company.sector.label"></field>
+		<field keep="true" name="step3List[3].company.addressInfo"></field>
+		<field keep="true" name="step3List[3].company.name"></field>
+		<field keep="true" name="step3List[3].activities"></field>
+		<field keep="true" name="step3List[3].position.label"></field>
+		<field keep="true" name="step3List[2].company.sector.label"></field>
+		<field keep="true" name="step3List[2].company.addressInfo"></field>
+		<field keep="true" name="step3List[2].company.name"></field>
+		<field keep="true" name="step3List[2].activities"></field>
+		<field keep="true" name="step3List[2].position.label"></field>
+		<field keep="true" name="step3List[1].company.sector.label"></field>
+		<field keep="true" name="step3List[1].company.addressInfo"></field>
+		<field keep="true" name="step3List[1].company.name"></field>
+		<field keep="true" name="step3List[1].activities"></field>
+		<field keep="true" name="step3List[1].position.label"></field>
+		<field format="" name="step4List[0].period"></field>
+		<field name="step4List" keep="true"></field>
+		<field keep="false" name="step4List[2].level.label"></field>
+		<field keep="true" name="step4List[2].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[2].educationalOrg.name"></field>
+		<field keep="true" name="step4List[2].skills"></field>
+		<field keep="true" name="step4List[2].title"></field>
+		<field keep="false" name="step4List[1].level.label"></field>
+		<field keep="true" name="step4List[1].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[1].educationalOrg.name"></field>
+		<field keep="true" name="step4List[1].skills"></field>
+		<field keep="false" name="step4List[1].title"></field>
+		<field keep="false" name="step4List[0].level.label"></field>
+		<field keep="true" name="step4List[0].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[0].educationalOrg.name"></field>
+		<field keep="true" name="step4List[0].skills"></field>
+		<field keep="true" name="step4List[0].title"></field>
+		<field name="step5.motherLanguages" keep="true"></field>
+		<field name="step5.foreignLanguageList" keep="true"></field>
+		<field keep="true" name="step5.foreignLanguageList[0]"></field>
+		<field name="step6.socialSkills" keep="true"></field>
+		<field name="step6.organisationalSkills" keep="true"></field>
+		<field name="step6.technicalSkills" keep="true"></field>
+		<field name="step6.computerSkills" keep="true"></field>
+		<field name="step6.artisticSkills" keep="true"></field>
+		<field name="step6.otherSkills" keep="true"></field>
+		<field name="step6.drivingLicences" keep="false"></field>
+		<field name="step7.additionalInfo" keep="true"></field>
+		<field name="step7.annexes" keep="false"></field>
+		<field name="grid" keep="false"></field>
+	</prefs>
+	<identification>
+		<firstname>Luca</firstname>
+		<lastname>Musolesi</lastname>
+		<contactinfo>
+			<address>
+				<addressLine>via saragozza 132</addressLine>
+				<municipality>Bologna</municipality>
+				<postalCode>40135</postalCode>
+				<country>
+					<code>IT</code>
+					<label>Italia</label>
+				</country>
+			</address>
+			<telephone></telephone>
+			<fax></fax>
+			<mobile>3382965007</mobile>
+			<email>musolesiluca@gmail.com</email>
+		</contactinfo>
+		<demographics>
+			<birthdate>1989-08-03</birthdate>
+			<gender>M</gender>
+			<nationality>
+				<code>IT</code>
+				<label>Italiana</label>
+			</nationality>
+		</demographics>
+	</identification>
+	<application>
+		<label>Web designer / Frontend developer</label>
+	</application>
+	<workexperiencelist>
+		<workexperience>
+			<period>
+				<from>
+					<year>2012</year>
+					<month>--05</month></from>
+				<to></to></period>
+			<position>
+				<label>Web Editor</label></position>
+			<activities>Design e sviluppo sito web, content manager, promozione e social marketing.</activities>
+			<employer>
+				<name>www.gelatoincasa.org</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality></municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Web e marketing</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2012</year></from>
+				<to>
+					<year>2012</year></to></period>
+			<position>
+				<label>Collaboratore</label></position>
+			<activities>Web designer e frontend developer siti web e e-commerce</activities>
+			<employer>
+				<name>SabreXtreme</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality></municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>AU</code>
+						<label>Australia</label></country></address>
+				<sector>
+					<label>Servizi Web</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--11</month></from>
+				<to>
+					<year>2011</year>
+					<month>--11</month></to></period>
+			<position>
+				<label>Tirocinio</label></position>
+			<activities>Installazione stazione meteo, attivazione strumenti di misura di particolato atmosferico e analisi dati online.</activities>
+			<employer>
+				<name>Istituto ISAC - CNR</name>
+				<address>
+					<addressLine>via Gobetti, 101</addressLine>
+					<municipality>Bologna</municipality>
+					<postalCode>40129</postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Ricerca</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2010</year>
+					<month>--04</month></from>
+				<to></to></period>
+			<position>
+				<label>Vicepresidente Associazione</label></position>
+			<activities>Sviluppo sito web, gestione contenuti e social marketing. Attività di organizzazione concerti e gestione archivio online.</activities>
+			<employer>
+				<name>Associazione Adrian Ensemble</name>
+				<address>
+					<addressLine>Via Longarone, 14</addressLine>
+					<municipality>Reggio Emilia</municipality>
+					<postalCode>42123</postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Attività amministrative e di servizi di supporto per la cultura e lo spettacolo</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2009</year>
+					<month>--03</month></from>
+				<to>
+					<year>2009</year>
+					<month>--04</month></to></period>
+			<position>
+				<label>Consulente informatico</label></position>
+			<activities>Consulenza informatica, aggiornamento software e gestione computer.</activities>
+			<employer>
+				<name>SIEM - Società Italiana per l'Educazione Musicale</name>
+				<address>
+					<addressLine>via dell'Unione, 4</addressLine>
+					<municipality>Bologna</municipality>
+					<postalCode>40126</postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Consulenza informatica</label></sector></employer></workexperience></workexperiencelist>
+	<educationlist>
+		<education>
+			<period>
+				<from>
+					<year>2003</year>
+				</from>
+				<to>
+					<year>2008</year>
+				</to>
+			</period>
+			<title>Diploma di maturità</title>
+			<skills>Matematica, fisica, informatica e materie scientifiche. 
+			Votazione conseguita: 100 su 100.</skills>
+			<organisation>
+				<name>Liceo Scientifico A. Sabin</name>
+				<address>
+					<addressLine>Matteotti, 7</addressLine>
+					<municipality>Bologna</municipality>
+					<postalCode>40129</postalCode>
+					<country>
+						<label>Bologna</label>
+					</country>
+				</address>
+				<type>Liceo Scientifico</type>
+			</organisation>
+			<level>
+				<label></label>
+			</level>
+			<educationalfield>
+				<label>Scientifico</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2008</year>
+				</from>
+				<to>				</to>
+			</period>
+			<title>Laurea</title>
+			<skills>Corso di laurea in Fisica dell'Atmosfera e Meteorologia. Competenze avanzate in fisica dei fluidi, fisica delle nubi, meteorologia, climatologia, installazione e manutenzione strumenti di misura meteo e di laboratorio. Avanzate competenze informatiche.</skills>
+			<organisation>
+				<name>Dipartimento di fisica Università di Bologna</name>
+				<address>
+					<addressLine>Irnerio, 46</addressLine>
+					<municipality>Bologna</municipality>
+					<postalCode>40126</postalCode>
+					<country>
+						<label>Bologna</label>
+					</country>
+				</address>
+				<type>Università</type>
+			</organisation>
+			<level>
+				<label></label>
+			</level>
+			<educationalfield>
+				<label></label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2001</year></from>
+				<to></to></period>
+			<title>Laurea in violino</title>
+			<skills>Violino, pianoforte, composizione, storia della musica, didattica della musica.</skills>
+			<organisation>
+				<name>Istituto Superiore di Studi Musicali "Achille Peri"</name>
+				<address>
+					<addressLine>Via Dante Alighieri, 11</addressLine>
+					<municipality>Reggio Emilia</municipality>
+					<postalCode>42100</postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<type>Conservatorio</type></organisation>
+			<level>
+				<label></label></level>
+			<educationalfield>
+				<label>Musica</label></educationalfield></education>
+	</educationlist>
+	<languagelist>
+		<language xsi:type="europass:mother">
+			<code>it</code>
+			<label>Italiano</label>
+		</language>
+		<language xsi:type="europass:foreign">
+			<code>en</code>
+			<label>Inglese</label>
+			<level>
+				<listening>c1</listening>
+				<reading>c1</reading>
+				<spokeninteraction>c2</spokeninteraction>
+				<spokenproduction>c2</spokenproduction>
+				<writing>c2</writing>
+			</level>
+		</language>
+	</languagelist>
+	<skilllist>
+		<skill type="social">Ottime capacità nel lavoro di gruppo sviluppate anche grazie al corso di laurea in fisica che prevede numerosi laboratori da svolgersi in gruppo, sia come parte del gruppo sia come leader. Esperienza nelle pubbliche relazione e nel social media marketing. 
+		Esperienza nelle relazioni internazionali grazie a numerose esperienze di scambio linguistico e culturale e come volontario nell’aiuto di studenti internazionali in Italia.</skill>
+		<skill type="organisational">Esperienza  nell’organizzazione e coordinamento di persone, eventi e progetti. Vicepresidente dell’associazione culturale Adrian Ensemble con cui svolge la completa attività di organizzazione e messa in atto di concerti, festival e attività di educazione rivolte alle scuole.</skill>
+		<skill type="technical">Conoscenza approfondita di fisica dell’atmosfera, fisica e chimica ambientale, aspetti scientifici e normativi sull’inquinamento, microfisica delle nubi e fisica degli aerosol. 
+		Padronanza di tutti i principali strumenti informatici utilizzati in fisica e in analisi dati. Esperienza nella installazione e gestione di strumenti meteo e acquisizione dati  e conoscenza delle relative normative WMO (World Meteorological Organisation).
+		Conoscenze basilari di hardware, reti di calcolatori e sistemi di interfaccia per strumenti di misura.</skill>
+		<skill type="computer">Sistemi Operativi: 
+		Conoscenza dei principali sistemi operativi Windows e profonda esperienza di sistemi Unix, GNU/Linux e Mac OSX.
+		Linguaggi di programmazione: 
+		Padronanza di C/C++ e Phyton, buona conoscenza di Ruby e Perl, ottime capacità di shell scripting.
+
+		Web: 
+		Competenze avanzate nella creazione di siti in xhtml-css e HTML5-CSS3. Ottima conoscenza di  Javascript e delle principali librerie (jQuery, mootools, scriptacolous, ...). 
+		Esperienza nell'uso delle più moderne tecniche web come SVG, canvas, NodeJS e WebGL, per la creazione di contenuti altamente interattivi.
+		Capacità di creare contenuti e siti web cross-browser ad alta compatibilità ed esperienza nella realizzazione di siti web per dispositivi mobili.
+		Elevate competenze nello sviluppo front-end e nella progettazione e design UI/UX.
+		Discreta conoscenza dello sviluppo back-end tramite PHP, MySQL e Python.
+		Conoscenza approfondita della piattaforma Wordpress (creazione temi e plugin) e buona conoscenza dei principali CMS (Drupal, Joomla, ...)
+		Esperienza nella collaborazione attiva a progetti open source come Getsimple CMS e Bancha CMS.
+		Ottime capacità grafiche, creative e nell'uso dei principali programmi Adobe per la grafica (Photoshop, Illustrator, After Effects) per lo sviluppo di grafica per il web, interfacce utente per il web e per applicazioni mobili.
+		Padronanza completa dei principali social network e abilità nella promozione e marketing attraverso questi media.
+
+		Desktop: 
+		Conoscenza dei principali programmi per ufficio, di grafica vettoriale e scalare e di controllo versioni. ( Suite Office, LibreOffice, Inkscape, Gimp, LaTex, programmi FTP, GIT, Software di virtualizzazione, ...)
+		Scientifiche: 
+		Conoscenza delle tecniche e degli strumenti correntemente in uso in fisica, matematica e statistica: MatLab, Scilab/Scicos, R, Root (CERN), LabView, programmi di acquisizione dati meteo.</skill>
+		<skill type="artistic">Laureando in violino presso l'istituto pareggiato A. Peri di Reggio Emilia. Svolge una intensa attività concertistica sia in orchestra che come solista da diversi anni. Ha collaborato alla fondazione dell’associazione culturale Adrian Ensemble della quale è vicepresidente e con cui svolge attività concertistica nel territorio italiano e organizza progetti educativi per le scuole di ogni ordine e grado.
+		Suona il pianoforte come secondo strumento a livello avanzato.
+		Sviluppa progetti grafici, fotografici e multimediali ideati principalmente per il Web.</skill>
+		<skill type="other">Conoscenza elementare di francese, spagnolo e tailandese.</skill>
+		<structured-skill xsi:type="europass:driving"></structured-skill>
+	</skilllist>
+	<misclist>
+		<misc type="additional">Alcuni progetti web recentemente realizzati:
+		http://gelatoincasa.org
+		http://elysiumb.com.au
+		http://agriturismolatintoria.it
+		http://www.adrianensemble.it
+		http://www.mtcadservice.it/</misc>
+		<misc type="annexes"></misc>
+	</misclist>
+</europass:learnerinfo>
